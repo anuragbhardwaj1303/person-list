@@ -26,7 +26,7 @@ const PersonList = () => {
       <Person img='14' personName='Brittny' job='Artist'></Person>
       <Person img='21' personName='Taylor' job='Singer'></Person>
       <Person img='11' personName='Cardi' job='Dancer'></Person>
-      <Person img='16' personName='Kyle' job='Model'></Person>
+      <Person img='3' personName='Kyle' job='Model'></Person>
       <Person img='71' personName='Augastha' job='Actor'></Person>
       <Person img='54' personName='Anthana' job='Entreprenuer'></Person>
     </section>
